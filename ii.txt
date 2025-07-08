@@ -1,1 +1,1 @@
-{'idType':'drawable', 'idName':'sahitya_custumize'}
+{'idType':'color', 'idName':'sahitya_custom_color', 'idLink':'https://pastebin.com/raw/NWsmQQ4h'}
