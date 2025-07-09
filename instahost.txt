@@ -1,1 +1,1 @@
-{'idType':'string', 'idName':'sahitya_header'}
+{'updateVer':'135', 'displayText':'Download InstaPro', 'displayType':'link', 'videoLink':' ', 'other':'https://www.instamod.co/2021/10/instapro-latest-version-apk-download.html'}
